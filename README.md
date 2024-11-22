@@ -130,6 +130,7 @@ pip install pandas numpy matplotlib seaborn folium
 
 1. **Visualizations**:
    - Hourly, daily, monthly, and yearly crime trends presented as line plots, bar charts, and histograms.
+     ![Crime Distribution](Figure_1.png)
    - Victim demographic insights:
      - Age distribution as a histogram.
      - Gender and descent distributions as count plots.
