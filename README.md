@@ -134,14 +134,20 @@ pip install pandas numpy matplotlib seaborn folium
    - Victim demographic insights:
      - Age distribution as a histogram.
      - Gender and descent distributions as count plots.
+       ![Victim Age, Gender and Decent distribution count plots](Figure_4.png)
    - Crime type analysis:
      - Top 10 crime types as bar charts.
+       ![Top 10 Crime Types](Figure_2.png)
      - Heatmaps showing crime occurrence by time of day and type.
+       ![Crime occurance by time heatmap](Figure_3.png)
+
    - Spatial analysis:
      - Distribution of crimes across areas using bar charts.
      - Interactive heatmaps for crime hotspots created with Folium.
+       ![Crime distribution by Area](Figure_5.png)
    - Weapon usage trends:
      - Top 10 most common weapons in crime incidents as bar charts.
+       ![Top 10 common weapons](Figure_6.png)
 
 2. **Interactive Maps**:
    - **Heatmaps**: Dynamic geospatial visualizations of crime hotspots using latitude and longitude data. These maps can be explored in your web browser.
