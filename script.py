@@ -48,11 +48,11 @@ def temporal_analysis(df):
         plt.title('Crime Distribution by Day of Week')
 
         # Crimes by month
-        plt.subplot(2, 2, 3)
-        monthly_crimes = df['Month'].value_counts().sort_index()
-        monthly_crimes.index = [calendar.month_abbr[m] for m in monthly_crimes.index]
-        monthly_crimes.plot(kind='bar')
-        plt.title('Crime Distribution by Month')
+        # plt.subplot(2, 2, 3)
+        # monthly_crimes = df['Month'].value_counts().sort_index()
+        # monthly_crimes.index = [calendar.month_abbr[m] for m in monthly_crimes.index]
+        # monthly_crimes.plot(kind='bar')
+        # plt.title('Crime Distribution by Month')
 
         # Trend over years
         plt.subplot(2, 2, 4)
