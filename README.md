@@ -1,4 +1,4 @@
-# Comprehensive Crime Data Analysis Tool
+# Comprehensive Crime Data Analysis Using Python
 
 This repository contains a Python-based tool for performing comprehensive analysis on crime datasets. It includes modules for temporal, spatial, demographic, and categorical crime data analysis, utilizing advanced visualization and geospatial mapping techniques.
 
